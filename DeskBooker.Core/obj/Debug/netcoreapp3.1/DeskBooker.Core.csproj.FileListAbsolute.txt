@@ -1,0 +1,10 @@
+C:\Users\uzer\Downloads\csharp-test-driven-development\04\demos\before\xunit\DeskBooker.Core\bin\Debug\netcoreapp3.1\DeskBooker.Core.deps.json
+C:\Users\uzer\Downloads\csharp-test-driven-development\04\demos\before\xunit\DeskBooker.Core\bin\Debug\netcoreapp3.1\DeskBooker.Core.dll
+C:\Users\uzer\Downloads\csharp-test-driven-development\04\demos\before\xunit\DeskBooker.Core\bin\Debug\netcoreapp3.1\DeskBooker.Core.pdb
+C:\Users\uzer\Downloads\csharp-test-driven-development\04\demos\before\xunit\DeskBooker.Core\obj\Debug\netcoreapp3.1\DeskBooker.Core.csproj.AssemblyReference.cache
+C:\Users\uzer\Downloads\csharp-test-driven-development\04\demos\before\xunit\DeskBooker.Core\obj\Debug\netcoreapp3.1\DeskBooker.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uzer\Downloads\csharp-test-driven-development\04\demos\before\xunit\DeskBooker.Core\obj\Debug\netcoreapp3.1\DeskBooker.Core.AssemblyInfoInputs.cache
+C:\Users\uzer\Downloads\csharp-test-driven-development\04\demos\before\xunit\DeskBooker.Core\obj\Debug\netcoreapp3.1\DeskBooker.Core.AssemblyInfo.cs
+C:\Users\uzer\Downloads\csharp-test-driven-development\04\demos\before\xunit\DeskBooker.Core\obj\Debug\netcoreapp3.1\DeskBooker.Core.csproj.CoreCompileInputs.cache
+C:\Users\uzer\Downloads\csharp-test-driven-development\04\demos\before\xunit\DeskBooker.Core\obj\Debug\netcoreapp3.1\DeskBooker.Core.dll
+C:\Users\uzer\Downloads\csharp-test-driven-development\04\demos\before\xunit\DeskBooker.Core\obj\Debug\netcoreapp3.1\DeskBooker.Core.pdb
